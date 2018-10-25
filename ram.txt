@@ -1,12 +1,2 @@
-
-
-
-
-
-
-
-
-
-
-
-12345
+learning git 
+Devops first tool
